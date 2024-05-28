@@ -51,6 +51,7 @@
     .container{
         grid-template-columns: 200px 200px;
         grid-template-rows: 50px 50px 255px 95px 50px;
+        width: 400px;
     }
     .item4{
         grid-row-start: 4;
